@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HEAD
 
 # Zalo Mini App
@@ -54,3 +55,6 @@ HEAD
 "# ZaloMiniApp" 
 "# MiniAppZalo" 
 "# MiniAppZalo" 
+=======
+# MiniAppZalo
+>>>>>>> 369f692102072660f123d749adc439c5827e3601
